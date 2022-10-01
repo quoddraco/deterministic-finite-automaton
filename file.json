@@ -1,0 +1,11 @@
+{"table": [
+  {"triggers": "a","source": "0","dest": "1","final": "f"},
+  {"triggers": "a","source": "1","dest": "1","final": "f"},
+  {"triggers": "a","source": "2","dest": "1","final": "f"},
+  {"triggers": "b","source": "0","dest": "0","final": "f"},
+  {"triggers": "b","source": "1","dest": "2","final": "f"},
+  {"triggers": "b","source": "2","dest": "0","final": "f"},
+  {"triggers": "c","source": "0","dest": "0","final": "f"},
+  {"triggers": "c","source": "1","dest": "0","final": "f"},
+  {"triggers": "c","source": "2","dest": "3","final": "t"}
+]}
